@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garima21-99
+- 👋 Hi, I’m Garima
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning backend technology
 - 💞
